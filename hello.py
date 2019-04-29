@@ -1,3 +1,3 @@
-# First progra on Git hub
+# First program on Git hub
 
 print "Hello world"
